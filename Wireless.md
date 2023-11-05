@@ -1,5 +1,7 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - ComputerScience
 date: 24--Feb--2023
 ---
 

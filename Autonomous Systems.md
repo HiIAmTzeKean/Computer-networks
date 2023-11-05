@@ -1,5 +1,7 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - ComputerScience
 alias: AS
 date: 12--Apr--2023
 ---
